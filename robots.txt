@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://elbutoulu.github.io/sitemap.html.gz
+Sitemap: https://elbutoulu.github.io/app/sitemap.html.gz
+Sitemap: https://elbutoulu.github.io/assets/sitemap.html.gz
+Sitemap: https://elbutoulu.github.io/css/sitemap.html.gz
+Sitemap: https://elbutoulu.github.io/includes/sitemap.html.gz
+Sitemap: https://elbutoulu.github.io/item/sitemap.html.gz
+Sitemap: https://elbutoulu.github.io/src/sitemap.html.gz
